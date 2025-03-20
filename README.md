@@ -1,16 +1,22 @@
-## Hi there 👋
+# Olá, Meu nome é Tamiris Carvalho 👋
 
-<!--
-**TamirisRC/TamirisRC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img src="https://media.sankhya.com.br/wp-content/uploads/2024/08/Ciberseguranca-.png" width="1200" height="400">
 
-Here are some ideas to get you started:
+## 🧑‍💻 Sobre Mim
+Sou formada em Desenvolvimento de Sistemas pela Etec da Zona Leste e atualmente curso o tecnólogo em Análise e Desenvolvimento de Sistemas pela Fatec ZL. Atualmente trabalho com CyberSecurity na Bradesco.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Habilidades
+- **Linguagens**: [Python, JavaScript, etc.]
+- **Banco de Dados**: [MySQL, SQLite etc.]
+
+## 💼 Experiência Profissional
+- **[Cargo Atual ou Último Cargo]** - [Bradesco]
+  - [Atualmente trabalho como estagiária na área de cibersegurança, com pesquisas e soluções.]
+
+- **[Cargo Anterior]** - [BLCAR]
+  - [Trabalhava como Jovem Aprendiz, auxiliando com documentações para liberações de carros.]
+
+
+## 📬 Meus Contatos!
+- **E-mail**: [tamirisromano718@gmail.com]
+- **LinkedIn**: [Seu LinkedIn](https://www.linkedin.com/in/seu-usuario)
